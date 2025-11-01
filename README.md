@@ -109,10 +109,7 @@ This project leverages Salesforce CRM features such as **custom objects**, **flo
 ---
 
 ## 🧑‍💻 Team Roles  
-If developed individually:  
-> “All the roles including Project Lead, Salesforce Developer, Document Specialist, Tester, and Video Presenter were performed individually.”  
 
-Otherwise:  
 | Role | Responsibility |
 |------|----------------|
 | **Project Lead** | Oversees the entire project lifecycle. |
